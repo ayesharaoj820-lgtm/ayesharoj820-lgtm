@@ -14,15 +14,9 @@ storefront  
 - 🛠 *Skills:* Python, Pandas, NumPy, Matplotlib, Seaborn, Requests, Flask, Django (beginner), SQLite,
 MySQL basics, Git/GitHub, Shopify  
 - 🎯 *Goal:* Becoming a professional-level Python developer in 2025 while expanding in web & e-commerce
-solutions  
+solutions
+  ## Featured Python  Pojects
+  -"Currently building projects to gain hands-on experience in python
+  
 - 🤝 *Open To:* Freelance Python projects (automation, APIs, web apps) and Shopify store development  
----
-## 📌 Featured Projects  
-- 🔹 [File Organizer Script](#) → Automates file sorting
-- 🔹 [Weather App using API](#) → Fetches live weather data  
-- 🔹 [Library Management System](#) → Simple CRUD project  
-- 🔹 [Personal Python Notes](#) → My learning journey  
-- 🔹 [Shopify Store Setup](#) → E-commerce storefront project  
-(More projects coming soon 🚀)  
----
-⭐ From [Ayesha J.](https://github.com/ayesharoj820-lgtm
+  https://github.com/ayesharoj820-lgtm
