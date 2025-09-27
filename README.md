@@ -25,4 +25,4 @@ solutions  
 - 🔹 [Shopify Store Setup](#) → E-commerce storefront project  
 (More projects coming soon 🚀)  
 ---
-⭐ From [Ayesha J.](https://github.com/your-usernam 
+⭐ From [Ayesha J.](https://github.com/ayesharoj820-lgtm
